@@ -205,14 +205,14 @@ module.exports = {
     ],
   ],
   i18n: {
-    defaultLocale: 'zh-cn',
-    locales: ['en', 'zh-cn'],
+    defaultLocale: 'zh-CN',
+    locales: ['zh-CN', 'en'],
     localeConfigs: {
+      'zh-CN': {
+        label: '简体中文',
+      },
       en: {
         label: 'English',
-      },
-      'zh-cn': {
-        label: '简体中文',
       },
     },
   },
