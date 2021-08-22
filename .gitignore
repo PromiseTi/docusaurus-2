@@ -1,19 +1,14 @@
-# dependencies
-node_modules
+# Dependencies
+/node_modules
 
-lib/core/metadata.js
-lib/core/MetadataBlog.js
+# Production
+/build
 
-# production
-website/translated_docs
-website/build/
-website/node_modules
+# Generated files
+.docusaurus
+.cache-loader
 
-# generated files
-website/.docusaurus
-website/.cache-loader
-
-# misc
+# Misc
 .DS_Store
 .env.local
 .env.development.local
@@ -23,8 +18,3 @@ website/.cache-loader
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-.vscode
-tmp/*
-
-# Local Netlify folder
-.netlify
