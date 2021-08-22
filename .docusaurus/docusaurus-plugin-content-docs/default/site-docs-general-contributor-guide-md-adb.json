@@ -1,0 +1,29 @@
+{
+  "unversionedId": "contributor-guide",
+  "id": "contributor-guide",
+  "isDocsHomePage": false,
+  "title": "Contributor Guide",
+  "description": "Please fee free to report bugs, submit suggestions, or submit PRs according to this guide.",
+  "source": "@site/docs/general/contributor-guide.md",
+  "sourceDirName": ".",
+  "slug": "/contributor-guide",
+  "permalink": "/docs/general/contributor-guide",
+  "editUrl": "https://github.com/apache/apisix-website/edit/master/website/docs/general/contributor-guide.md",
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "contributor-guide",
+    "title": "Contributor Guide"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Subscribe Guide",
+    "permalink": "/docs/general/subscribe-guide"
+  },
+  "next": {
+    "title": "Committer Guide",
+    "permalink": "/docs/general/committer-guide"
+  }
+}

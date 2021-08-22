@@ -1,0 +1,19 @@
+{
+  "permalink": "/events/2021/06/15/release-apache-apisix-dashboard-2.7",
+  "source": "@site/events/2021-06-15-release-apache-apisix-dashboard-2.7.md",
+  "title": "Release Apache APISIX Dashboard 2.7",
+  "description": "This release mainly improves basic features, bugfix and adds test cases.",
+  "date": "2021-06-15T00:00:00.000Z",
+  "formattedDate": "June 15, 2021",
+  "tags": [],
+  "readingTime": 1.095,
+  "truncated": true,
+  "prevItem": {
+    "title": "Release Apache APISIX 2.7",
+    "permalink": "/events/2021/06/25/release-apache-apisix-2.7"
+  },
+  "nextItem": {
+    "title": "Release Apache APISIX Dashboard 2.6.1",
+    "permalink": "/events/2021/05/27/release-apache-apisix-dashboard-2.6.1"
+  }
+}

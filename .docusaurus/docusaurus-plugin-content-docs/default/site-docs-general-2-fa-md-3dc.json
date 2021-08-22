@@ -1,0 +1,29 @@
+{
+  "unversionedId": "2fa",
+  "id": "2fa",
+  "isDocsHomePage": false,
+  "title": "2FA",
+  "description": "Two-factor authentication(2FA)",
+  "source": "@site/docs/general/2fa.md",
+  "sourceDirName": ".",
+  "slug": "/2fa",
+  "permalink": "/docs/general/2fa",
+  "editUrl": "https://github.com/apache/apisix-website/edit/master/website/docs/general/2fa.md",
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "2fa",
+    "title": "2FA"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Committer Guide",
+    "permalink": "/docs/general/committer-guide"
+  },
+  "next": {
+    "title": "Release Guide",
+    "permalink": "/docs/general/release-guide"
+  }
+}

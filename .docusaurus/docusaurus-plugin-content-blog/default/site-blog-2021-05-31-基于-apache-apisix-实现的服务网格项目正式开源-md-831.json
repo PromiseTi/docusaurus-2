@@ -1,0 +1,19 @@
+{
+  "permalink": "/blog/2021/05/31/基于 Apache APISIX 实现的服务网格项目正式开源",
+  "source": "@site/blog\\2021-05-31-基于 Apache APISIX 实现的服务网格项目正式开源.md",
+  "title": "基于 Apache APISIX 实现的服务网格项目正式开源",
+  "description": "@tokers, Apache APISIX PMC from Shenzhen Zhiliu Technology Co.",
+  "date": "2021-05-31T00:00:00.000Z",
+  "formattedDate": "May 31, 2021",
+  "tags": [],
+  "readingTime": 0.6,
+  "truncated": true,
+  "prevItem": {
+    "title": "Apache APISIX not affected by NGINX CVE-2021-23017",
+    "permalink": "/blog/2021/06/07/Apache-APISIX-not-affected-by-NGINX-CVE-2021-23017"
+  },
+  "nextItem": {
+    "title": "Apache APISIX 2.6.0-Release 正式发布",
+    "permalink": "/blog/2021/05/25/Apache APISIX 2.6.0-Release 正式发布"
+  }
+}

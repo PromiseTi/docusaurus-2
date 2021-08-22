@@ -1,0 +1,19 @@
+{
+  "permalink": "/events/2021/04/05/release-apache-apisix-2.5",
+  "source": "@site/events/2021-04-05-release-apache-apisix-2.5.md",
+  "title": "Release Apache APISIX 2.5",
+  "description": "Change",
+  "date": "2021-04-05T00:00:00.000Z",
+  "formattedDate": "April 5, 2021",
+  "tags": [],
+  "readingTime": 0.85,
+  "truncated": true,
+  "prevItem": {
+    "title": "Release Apache APISIX Ingress Controller 0.5",
+    "permalink": "/events/2021/04/13/release-apisix-ingress-controller-0.5"
+  },
+  "nextItem": {
+    "title": "Release Apache APISIX Ingress Controller 0.4.0",
+    "permalink": "/events/2021/03/12/release-apache-apisix-ingress-controller-0.4.0"
+  }
+}

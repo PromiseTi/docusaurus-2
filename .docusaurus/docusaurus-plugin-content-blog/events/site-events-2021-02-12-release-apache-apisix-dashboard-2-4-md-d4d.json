@@ -1,0 +1,19 @@
+{
+  "permalink": "/events/2021/02/12/release-apache-apisix-dashboard-2.4",
+  "source": "@site/events/2021-02-12-release-apache-apisix-dashboard-2.4.md",
+  "title": "Release Apache APISIX Dashboard 2.4",
+  "description": "This release mainly improves basic features, bugfix and adds test cases.",
+  "date": "2021-02-12T00:00:00.000Z",
+  "formattedDate": "February 12, 2021",
+  "tags": [],
+  "readingTime": 1.44,
+  "truncated": true,
+  "prevItem": {
+    "title": "Release Apache APISIX 2.4",
+    "permalink": "/events/2021/03/05/release-apache-apisix-2.4"
+  },
+  "nextItem": {
+    "title": "Release Apache APISIX Ingress Controller 0.3.0",
+    "permalink": "/events/2021/02/11/release-apache-apisix-ingress-controller-0.3.0"
+  }
+}

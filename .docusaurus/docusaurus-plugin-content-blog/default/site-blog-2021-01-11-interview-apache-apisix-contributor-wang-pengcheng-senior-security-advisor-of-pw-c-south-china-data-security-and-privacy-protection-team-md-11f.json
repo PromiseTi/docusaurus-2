@@ -1,0 +1,19 @@
+{
+  "permalink": "/blog/2021/01/11/interview-Apache-APISIX-contributor-Wang-Pengcheng-Senior-Security-Advisor-of-PwC-South-China-Data-Security-and-Privacy-Protection-Team",
+  "source": "@site/blog/2021-01-11-interview-Apache-APISIX-contributor-Wang-Pengcheng-Senior-Security-Advisor-of-PwC-South-China-Data-Security-and-Privacy-Protection-Team.md",
+  "title": "Apache APISIX 贡献者专访 | 普华永道华南数据安全与隐私保护团队高级安全顾问王鹏诚",
+  "description": "@moonming, Apache APISIX PMC Chair from Shenzhen Zhiliu Technology Co.",
+  "date": "2021-01-11T00:00:00.000Z",
+  "formattedDate": "January 11, 2021",
+  "tags": [],
+  "readingTime": 0.51,
+  "truncated": true,
+  "prevItem": {
+    "title": "Run Ingress APISIX on Amazon EKS",
+    "permalink": "/blog/2021/01/21/run-ingress-apisix-on-amazon-eks"
+  },
+  "nextItem": {
+    "title": "初探 Kubernetes Service APIs",
+    "permalink": "/blog/2020/12/18/a-first-look-at-kubernetes-service-api"
+  }
+}

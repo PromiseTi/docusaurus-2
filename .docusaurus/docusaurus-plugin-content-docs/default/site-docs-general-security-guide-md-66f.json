@@ -1,0 +1,25 @@
+{
+  "unversionedId": "security",
+  "id": "security",
+  "isDocsHomePage": false,
+  "title": "Security",
+  "description": "The Apache Software Foundation takes a rigorous stance on eliminating security issues in its software projects. Apache APISIX is also very concerned Security issues related to its features and functionality.",
+  "source": "@site/docs/general/security-guide.md",
+  "sourceDirName": ".",
+  "slug": "/security",
+  "permalink": "/docs/general/security",
+  "editUrl": "https://github.com/apache/apisix-website/edit/master/website/docs/general/security-guide.md",
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "security",
+    "title": "Security"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Subscribe Guide",
+    "permalink": "/docs/general/subscribe-guide"
+  }
+}

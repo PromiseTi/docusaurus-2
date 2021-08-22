@@ -1,0 +1,25 @@
+{
+  "unversionedId": "integrate-with-project-docs",
+  "id": "integrate-with-project-docs",
+  "isDocsHomePage": false,
+  "title": "Integrate with Project documentations",
+  "description": "Directory Structure",
+  "source": "@site/docs/general/integrate-with-project-docs.md",
+  "sourceDirName": ".",
+  "slug": "/integrate-with-project-docs",
+  "permalink": "/docs/general/integrate-with-project-docs",
+  "editUrl": "https://github.com/apache/apisix-website/edit/master/website/docs/general/integrate-with-project-docs.md",
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "integrate-with-project-docs",
+    "title": "Integrate with Project documentations"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Release Guide",
+    "permalink": "/docs/general/release-guide"
+  }
+}

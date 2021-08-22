@@ -1,0 +1,19 @@
+{
+  "permalink": "/blog/2021/07/27/use-of-plugin-orchestration-in-Apache-APISIX",
+  "source": "@site/blog/2021-07-27-use-of-plugin-orchestration-in-Apache-APISIX.md",
+  "title": "插件编排在 Apache APISIX 中的应用与实践",
+  "description": "@juzhiyuan, Apache APISIX PMC from Shenzhen Zhiliu Technology Co.",
+  "date": "2021-07-27T00:00:00.000Z",
+  "formattedDate": "July 27, 2021",
+  "tags": [],
+  "readingTime": 2.055,
+  "truncated": true,
+  "prevItem": {
+    "title": "Release Apache APISIX 2.8.0",
+    "permalink": "/blog/2021/07/28/release-apache-apisix-2.8-en"
+  },
+  "nextItem": {
+    "title": "深度剖析 Apache APISIX Mesh Agent",
+    "permalink": "/blog/2021/07/16/Analyze-Apache-APISIX-Mesh-Agent-deeply"
+  }
+}

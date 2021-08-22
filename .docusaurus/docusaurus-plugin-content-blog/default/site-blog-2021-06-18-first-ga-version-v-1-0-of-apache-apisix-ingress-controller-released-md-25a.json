@@ -1,0 +1,19 @@
+{
+  "permalink": "/blog/2021/06/18/first-GA-version-v1.0-of-Apache-APISIX-Ingress-Controller-released",
+  "source": "@site/blog/2021-06-18-first-GA-version-v1.0-of-Apache-APISIX-Ingress-Controller-released.md",
+  "title": "Apache APISIX Ingress Controller 首个 GA 版本 v1.0 正式发布！",
+  "description": "@tao12345666333, Apache APISIX committer from Shenzhen Zhiliu Technology Co.",
+  "date": "2021-06-18T00:00:00.000Z",
+  "formattedDate": "June 18, 2021",
+  "tags": [],
+  "readingTime": 1.24,
+  "truncated": true,
+  "prevItem": {
+    "title": "使用 Java 编写 Apache APISIX 插件",
+    "permalink": "/blog/2021/06/21/use-Java-to-write-Apache-APISIX-plugins"
+  },
+  "nextItem": {
+    "title": "Apache APISIX Dashboard 访问控制绕过漏洞公告（CVE-2021-33190）",
+    "permalink": "/blog/2021/06/17/Apache-APISIX-Dashboard-Access-Control-Bypass-Vulnerability-Announcement"
+  }
+}

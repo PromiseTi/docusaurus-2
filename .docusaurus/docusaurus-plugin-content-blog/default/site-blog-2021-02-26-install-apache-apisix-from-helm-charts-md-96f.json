@@ -1,0 +1,19 @@
+{
+  "permalink": "/blog/2021/02/26/install-apache-apisix-from-helm-charts",
+  "source": "@site/blog/2021-02-26-install-apache-apisix-from-helm-charts.md",
+  "title": "Install Apache APISIX from Helm Charts",
+  "description": "@tokers, Apache APISIX Committer from Shenzhen Zhiliu Technology Co.",
+  "date": "2021-02-26T00:00:00.000Z",
+  "formattedDate": "February 26, 2021",
+  "tags": [],
+  "readingTime": 0.975,
+  "truncated": true,
+  "prevItem": {
+    "title": "Get Front-End Test Coverage with Cypress",
+    "permalink": "/blog/2021/03/02/get-front-end-test-coverage-with-cypress"
+  },
+  "nextItem": {
+    "title": "Stable Product Delivery with Cypress",
+    "permalink": "/blog/2021/02/08/stable-product-delivery-with-cypress"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "permalink": "/blog/2021/07/14/the-road-to-customization-of-Sina-Weibo-API-gateway-based-on-Apache-APISIX",
+  "source": "@site/blog/2021-07-14-the-road-to-customization-of-Sina-Weibo-API-gateway-based-on-Apache-APISIX.md",
+  "title": "基于 Apache APISIX，新浪微博 API 网关的定制化开发之路",
+  "description": "聂永，微博基础架构师，开源爱好者，爱折腾追求 Geek。",
+  "date": "2021-07-14T00:00:00.000Z",
+  "formattedDate": "July 14, 2021",
+  "tags": [],
+  "readingTime": 2.045,
+  "truncated": true,
+  "prevItem": {
+    "title": "深度剖析 Apache APISIX Mesh Agent",
+    "permalink": "/blog/2021/07/16/Analyze-Apache-APISIX-Mesh-Agent-deeply"
+  },
+  "nextItem": {
+    "title": "Apache APISIX has over 200 contributors in GitHub main repo! ",
+    "permalink": "/blog/2021/07/06/celebrate-200-contributors"
+  }
+}

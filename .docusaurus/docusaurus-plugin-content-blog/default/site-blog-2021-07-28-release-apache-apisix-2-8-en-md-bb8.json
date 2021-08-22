@@ -1,0 +1,19 @@
+{
+  "permalink": "/blog/2021/07/28/release-apache-apisix-2.8-en",
+  "source": "@site/blog/2021-07-28-release-apache-apisix-2.8-en.md",
+  "title": "Release Apache APISIX 2.8.0",
+  "description": "@Serendipity96, Apache APISIX contributor from Shenzhen Zhiliu Technology Co.",
+  "date": "2021-07-28T00:00:00.000Z",
+  "formattedDate": "July 28, 2021",
+  "tags": [],
+  "readingTime": 3.365,
+  "truncated": true,
+  "prevItem": {
+    "title": "Apache APISIX 2.8 正式发布，带来更多新功能！",
+    "permalink": "/blog/2021/07/28/release-apache-apisix-2.8"
+  },
+  "nextItem": {
+    "title": "插件编排在 Apache APISIX 中的应用与实践",
+    "permalink": "/blog/2021/07/27/use-of-plugin-orchestration-in-Apache-APISIX"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "permalink": "/blog/2021/06/29/release-apache-apisix-2.7",
+  "source": "@site/blog/2021-06-29-release-apache-apisix-2.7.md",
+  "title": "Apache APISIX 2.7.0-Release 正式发布",
+  "description": "@spacewander, Core developer of Apache APISIX from Shenzhen Zhiliu Technology Co.",
+  "date": "2021-06-29T00:00:00.000Z",
+  "formattedDate": "June 29, 2021",
+  "tags": [],
+  "readingTime": 0.63,
+  "truncated": true,
+  "prevItem": {
+    "title": "Release Apache APISIX 2.7.0",
+    "permalink": "/blog/2021/06/29/release-apache-apisix-2.7-en"
+  },
+  "nextItem": {
+    "title": "Rancher × Apache APISIX: 极速部署更好用的开源网关和 Ingress Controller",
+    "permalink": "/blog/2021/06/23/deploy-great-open-source-gateway-and-ingress-controller-fast"
+  }
+}

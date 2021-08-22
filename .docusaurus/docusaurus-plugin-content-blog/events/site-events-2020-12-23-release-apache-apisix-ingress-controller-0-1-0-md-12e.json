@@ -1,0 +1,15 @@
+{
+  "permalink": "/events/2020/12/23/release-apache-apisix-ingress-controller-0.1.0",
+  "source": "@site/events/2020-12-23-release-apache-apisix-ingress-controller-0.1.0.md",
+  "title": "Release Apache APISIX Ingress Controller 0.1.0",
+  "description": "This release mainly improve basic features, bugfix and adds test cases.",
+  "date": "2020-12-23T00:00:00.000Z",
+  "formattedDate": "December 23, 2020",
+  "tags": [],
+  "readingTime": 0.375,
+  "truncated": true,
+  "prevItem": {
+    "title": "Release Apache APISIX Ingress Controller 0.2.0",
+    "permalink": "/events/2021/01/19/release-apache-apisix-ingress-controller-0.2.0"
+  }
+}

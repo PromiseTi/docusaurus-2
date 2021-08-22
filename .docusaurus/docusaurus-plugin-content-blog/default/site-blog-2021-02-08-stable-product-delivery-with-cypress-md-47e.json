@@ -1,0 +1,19 @@
+{
+  "permalink": "/blog/2021/02/08/stable-product-delivery-with-cypress",
+  "source": "@site/blog/2021-02-08-stable-product-delivery-with-cypress.md",
+  "title": "Stable Product Delivery with Cypress",
+  "description": "@LiteSun, Apache APISIX Committer from Shenzhen Zhiliu Technology Co.",
+  "date": "2021-02-08T00:00:00.000Z",
+  "formattedDate": "February 8, 2021",
+  "tags": [],
+  "readingTime": 5.465,
+  "truncated": true,
+  "prevItem": {
+    "title": "Install Apache APISIX from Helm Charts",
+    "permalink": "/blog/2021/02/26/install-apache-apisix-from-helm-charts"
+  },
+  "nextItem": {
+    "title": "Run Ingress APISIX on Amazon EKS",
+    "permalink": "/blog/2021/01/21/run-ingress-apisix-on-amazon-eks"
+  }
+}

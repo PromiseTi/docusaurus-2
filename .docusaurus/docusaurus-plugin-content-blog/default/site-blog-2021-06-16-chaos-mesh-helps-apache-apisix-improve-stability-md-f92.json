@@ -1,0 +1,19 @@
+{
+  "permalink": "/blog/2021/06/16/Chaos-Mesh-helps-Apache-APISIX-improve-stability",
+  "source": "@site/blog/2021-06-16-Chaos-Mesh-helps-Apache-APISIX-improve-stability.md",
+  "title": "Chaos Mesh 助力 Apache APISIX 提升稳定性",
+  "description": "@Yiyiyimu,Apache APISIX committer from Shenzhen Zhiliu Technology Co.",
+  "date": "2021-06-16T00:00:00.000Z",
+  "formattedDate": "June 16, 2021",
+  "tags": [],
+  "readingTime": 1.2,
+  "truncated": true,
+  "prevItem": {
+    "title": "Apache APISIX Dashboard 访问控制绕过漏洞公告（CVE-2021-33190）",
+    "permalink": "/blog/2021/06/17/Apache-APISIX-Dashboard-Access-Control-Bypass-Vulnerability-Announcement"
+  },
+  "nextItem": {
+    "title": "Apache APISIX not affected by NGINX CVE-2021-23017",
+    "permalink": "/blog/2021/06/07/Apache-APISIX-not-affected-by-NGINX-CVE-2021-23017"
+  }
+}
