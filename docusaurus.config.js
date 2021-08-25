@@ -23,7 +23,38 @@ module.exports = {
         {
           label: 'DOCS',
           position: 'right',
-          to: 'docs/intro',
+          items: [
+            {
+              label: 'DicomNetwork',
+              to: 'docs/Docs/DicomNetwork/work1',
+            },
+            {
+              label: 'SINSO',
+              to: 'docs/Docs/SINSO/contactus',
+            },
+            {
+              label: '项目3',
+              to: 'docs/Docs/项目3/xiang1',
+            },
+          ],
+        },
+        {
+          label: 'About',
+          position: 'right',
+          items: [
+            {
+              label: '我们是谁',
+              to: 'docs/About/are',
+            },
+            {
+              label: '团队',
+              to: 'docs/About/teams',
+            },
+            {
+              label: '联系我们',
+              to: 'docs/About/contactus',
+            },
+          ],
         },
         {
           label: 'FAQ',
@@ -70,24 +101,7 @@ module.exports = {
             },
           ],
         },
-        {
-          label: 'About',
-          position: 'right',
-          items: [
-            {
-              label: 'Who we are',
-              to: 'docs/About/are',
-            },
-            {
-              label: 'Teams',
-              to: 'docs/About/teams',
-            },
-            {
-              label: '联系我们',
-              to: 'docs/About/contactus',
-            },
-          ],
-        },
+
         {
           label: 'MarketPlace',
           position: 'right',
