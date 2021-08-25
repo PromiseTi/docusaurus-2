@@ -33,8 +33,8 @@ module.exports = {
               to: 'docs/Docs/SINSO/contactus',
             },
             {
-              label: '项目3',
-              to: 'docs/Docs/项目3/xiang1',
+              label: 'SINSO BOX Utopia edition',
+              to: 'docs/Docs/sex3/xiang1',
             },
           ],
         },
@@ -95,6 +95,10 @@ module.exports = {
           label: 'Parts',
           position: 'right',
           items: [
+            {
+              label: 'SINSO',
+              to: 'docs/parts/SINSO/sin1',
+            },
             {
               label: 'DicomNetwork',
               to: 'docs/parts/dicomNetwork',
