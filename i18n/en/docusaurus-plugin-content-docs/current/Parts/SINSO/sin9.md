@@ -1,6 +1,6 @@
 ---
 id: sin9
-title: 9 新闻报道
+title: 9 News report
 sidebar_position: 9
 ---
 

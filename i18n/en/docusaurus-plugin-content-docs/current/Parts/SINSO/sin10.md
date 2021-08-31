@@ -1,17 +1,17 @@
 ---
 id: sin10
-title: 10 相关视频介绍
+title: 10 Related video introduction
 sidebar_position: 10
 ---
 
-sinso 项目介绍视频
+Sinso project introduction video
 https://www.youtube.com/watch?v=BxSogDo3lSY&t=44s
 
-SINSO 预告片
+SINSO trailer
 https://www.youtube.com/watch?v=ctMTmnn26Ts
 
-全球品牌官介绍
+Global Brand Officer Introduction
 https://www.youtube.com/watch?v=wJy4uuHbufs
 
-首席科学家凯瑞教授介绍 SINSO
+Chief Scientist Professor Karin introduces SINSO
 https://www.youtube.com/watch?v=kJ5CuYVUiU0

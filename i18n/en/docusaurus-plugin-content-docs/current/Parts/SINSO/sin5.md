@@ -1,6 +1,6 @@
 ---
 id: sin5
-title: 5 项目链接及通讯方式
+title: 5 Project link and communication method
 sidebar_position: 5
 ---
 

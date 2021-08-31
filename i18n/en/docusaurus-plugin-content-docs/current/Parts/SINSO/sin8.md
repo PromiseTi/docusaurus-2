@@ -1,17 +1,17 @@
 ---
 id: sin8
-title: 8 团队
+title: 8 team
 sidebar_position: 8
 ---
 
-CEO Babar M khan ,IBA 的金融 MBA 学位和工商管理研究生,作为企业财务经理，他参与了许多融资交易，从 1.5 亿美元到 35 亿美元的双批债券发行，创下超额认购 7 倍的成绩。
+CEO Babar m Khan, IBA's MBA in finance and graduate student in business administration, as a corporate finance manager, he participated in many financing transactions, from US $150 million to US $3.5 billion in double batch bond issuance, with a record of 7 times oversubscription.
 
-CMS Michael Karin, 美国国家科学院院士, 美国免疫学国家级研究专家, 美国癌症研究协会会士, 欧洲分子生物学会（EMBO）会士。
+CMS Michael Karin, academician of the National Academy of Sciences, national research expert in immunology, member of the American Cancer Research Association and member of the European Society of molecular biology (EMBO).
 
-Leader of Global Technology Franklin Jiang， 拥有 15 年医疗 IT 从业经历，以太坊中国最早医疗研发团队创立者；通证经济研究、IPFS 分布式存储应用专家；大数据科技专家顾问团成员,全球 web3 医疗基金会发起人。
+Leader of global technology Franklin Jiang, with 15 years of medical IT experience, is the founder of Ethereum's earliest medical R & D team in China; Tongzheng economic research, IPFs distributed storage application expert; Member of big data technology expert advisory panel and initiator of global Web3 medical foundation.
 
-CFO & CRO Najeeb Zaidi，拥有超过 25 年的多元化国际银行和投资管理经验 , 长期从事风险投资、项目融资、金融科技和创新领域管理的工作；人工智能促进协会（ AAAI ）和 CFA 协会的正式会员。
+CFO & cro najeeb Zaidi, with more than 25 years of diversified international banking and investment management experience, has long been engaged in the management of venture capital, project financing, financial technology and innovation; Full member of artificial intelligence Promotion Association (AAAI) and CFA Association.
 
-CTO Sum Xia, 5 年区块链行业编程经验，丰富的医疗区块链大型项目架构经验。有着丰富的分布式服务、高并发、高可用应用经验；对系统诊断、调优有大量的实战经验。
+CTO sum Xia has 5 years of programming experience in blockchain industry and rich experience in large-scale project architecture of medical blockchain. Rich experience in distributed services, high concurrency and high availability applications; Have a lot of practical experience in system diagnosis and tuning.
 
-CBO Mariya Ebirayim，8 年金融科技投资行业经验 ，资深投资者，专业理财师 ；5 年以上品牌推广、 数字营销经验；专注于区块链和金融科技领域。
+CBO Mariya ebirayim, 8 years of experience in financial technology investment industry, senior investor and professional financial planner; At least 5 years experience in brand promotion and digital marketing; Focus on blockchain and financial technology.

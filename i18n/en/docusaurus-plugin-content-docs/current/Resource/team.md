@@ -1,7 +1,7 @@
 ---
 id: team
-title: 团队成员
+title: Team Members
 ---
 
-![Longhash ](./img/ph1.jpg)
-![Longhash ](./img/ph2.jpg)
+![Longhash ](./img/ph3.jpg)
+![Longhash ](./img/ph4.jpg)

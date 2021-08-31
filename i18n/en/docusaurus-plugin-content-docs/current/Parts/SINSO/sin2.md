@@ -1,10 +1,9 @@
 ---
 id: sin2
-title: 2 项目简介
+title: 2 Project Description
 sidebar_position: 2
 ---
 
-去中心化医疗基础设施架构
-让人类进入民主医疗时代；
+Decentralized medical infrastructure architecture, allows human beings to enter the era of democratic medical care;
 
-Sinso 作为远程医疗和 AI 诊断的医学影像数据聚合器，在提供高质量的远程诊疗服务基础上继而解决患者数据的确权问题，通过针对医疗数据定制的 NFT 发行模板，激励用户主动参与数据确权，帮助用户加强数据采集和数据资产的转换过程，加强医疗数据流动。Sinso 还提供医生品牌类 NFT 虚拟资产的发行，进一步推动医生全面走向自由执业。
+Sinso, as a medical image data aggregator for telemedicine and AI diagnosis, provides high-quality remote diagnosis and treatment services and then solves the problem of authenticating patient data. Through the NFT issuance template customized for medical data, it encourages users to actively participate in data confirmation, helps users strengthen the process of data collection and data asset conversion, and strengthens the flow of medical data. Sinso also provides the issuance of doctor brand NFT virtual assets to further promote the free practice of doctors.

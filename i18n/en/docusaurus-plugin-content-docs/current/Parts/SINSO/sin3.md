@@ -1,15 +1,15 @@
 ---
 id: sin3
-title: 3 产品特色
+title: 3 Product features
 sidebar_position: 3
 ---
 
-Sinso DApp 可以简单、快速匹配专家进行问诊、咨询，并对个人病历及影像数据进行数据确权。
+Sinso DApp can simply and quickly match experts for consultations and consultations, as well as data confirmation of personal medical records and image data.
 
-Sinso Getway 提供数据采集标准 API 接口、数据预处理和隐私计算模块，通过标准的 API 和个人及机构进行数据交换。
+Sinso Getway provides data collection standard API interfaces, data preprocessing and privacy calculation modules, and exchanges data with individuals and institutions through standard APIs.
 
-Sinso Donors Network 按照医疗数据深度表型分析模型构建的激励经济模型，自动化匹配数据采购者，对存储矿工和相关贡献者进行激励。
+Sinso Donors Network builds an incentive economic model based on the in-depth phenotype analysis model of medical data, automatically matching data purchasers, and incentivizing storage miners and related contributors.
 
-Filecoin / Web 3.0 分布式存储技术保证隐私性和安全性。
+Filecoin / Web 3.0 distributed storage technology guarantees privacy and security.
 
-NFTs 提供各种医疗数据模板，聚合数据采购者资源，使得患者、医生、研究机构等医疗行业的组织进行更好的数据资产变现。
+NFTs provide various medical data templates to aggregate data purchaser resources, so that medical industry organizations such as patients, doctors, and research institutions can better realize their data assets.

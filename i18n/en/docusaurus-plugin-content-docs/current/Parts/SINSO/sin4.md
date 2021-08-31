@@ -1,18 +1,22 @@
 ---
 id: sin4
-title: 4 项目发起人
+title: 4 Project sponsor
 sidebar_position: 4
 ---
 
-## Babar M khan 巴巴米汗 CEO （加拿大）
+## Babar M khan 巴巴米汗 CEO （Canada）
 
-巴巴米汗以首席执行官兼首席投资官的身份加入了 SINSO。 拥有 IBA 的金融 MBA 学位和工商管理研究生文凭的巴巴尔, 还是一名 Oracle 数据库工程师。他曾与 IBM、花旗银行、CIBC、巴瓦房地产公司、德励财富、时代华纳兄弟等组织合作。
-巴巴尔是卡塔尔最大的 190 亿美元合并案的团队负责人。 作为企业财务经理，他参与了许多融资交易，从 1.5 亿美元到 35 亿美元的双批债券发行，创下超额认购 7 倍的成绩。
-巴巴尔展示了对投资、财务、管理、风险和合规性以及数据库的深刻理解。作为一名教育家，他曾在 IBA、卡拉奇大学、英国大学本科课程 (CS)、NCR-AT&T 以及其他各种大学和学院担任访问教员，教授管理学、商业金融学、财务和管理会计、Oracle 数据库、SQL/PLQL 到 MBA、MPA 和 BBA 课程。
-作为一个伟大的思想家，巴巴尔提出了一些独特、创新和有趣的想法。他能很快地理解问题并提出解决方案。他的一些想法已提交给当局，正在考虑实施。他曾致力于为麦当劳将教育游戏货币化，为优步的司机/雇员-承包商困境寻找解决方案，支付一个国家的所有债务，以及在 BEN 金融科技有限公司的许多举措。
+Babar has joined SINSO as Deputy CEO and Chief Investment Officer. Babar has an MBA in Finance degree from IBA and a Post Graduate Diploma in Business Administration. He is also an Oracle DBA. He has worked with organizations like IBM, Citibank NA, CIBC, BARWA Real Estate, Dow Jones Telerate, Times Warner Brother and many more.
 
-## 纳吉布，Najeeb Zaidi CRO,CFO （迪拜）
+Babar was a team lead on Qatar’s biggest merger of $19 Billion. As a Corporate Finance Manager, he was involved in many financing transactions from USD 150M to USD 3.5 Billion dual-tranche bonds issue which was oversubscribed 7 times.
 
-纳吉布是我们的风险管理和数字银行专家。他拥有超过 25 年的多元化国际银行和投资管理经验, 长期从事风险投资、项目融资、金融科技和创新管理领域的工作。
-纳吉布最近加入了 Sinso 的项目团队，担任首席财务和风险官 (CFO & CRO)。他将负责我们的资本管理、企业融资和风险管理职能。纳吉布还是海湾和亚太地区精选国际金融科技项目的董事会董事。
-他拥有 MBA、FRM 和数据科学与机器学习硕士学位，目前是人工智能和信息技术管理博士候选人。他的专业背景包括全球风险专业人士协会（GARP，美国）、人工智能促进协会（AAAI）和 CFA 协会的正式会员。
+Babar has demonstrated deep understanding of Investments, Finance, Management, Risk and Compliance and Databases. As an educationist he has taught Management, Business Finance, Financial and Managerial Accounting, Oracle Databases, SQL/PLQL to MBA, MPA and BBA classes as visiting faculty member at IBA, Karachi University, British Universities Undergraduate Program (CS), NCR-AT&T and various other universities and colleges.
+As a Big-Idea-Thinker Babar has come up with some unique, innovative, and interesting ideas. He is very quick in understanding a problem and come up with a solution. Some of his ideas has been presented to authorities and are under consideration of implementation. He has worked on monetizing gaming in education for McDonalds, finding solution for UBER’s driver/employee-contractor dilemma, paying all debts of a country, and many initiatives of BEN Fintech Inc.
+
+## Najeeb Zaidi Zaidi CRO,CFO （Dubai）
+
+Najeeb is our Risk Management & Digital Banking expert. He has 25+ years of diversified international banking & investment management experience. He carries a long standing in the areas of Venture Capital, Project Finance, Fintech, and innovation management.
+
+Najeeb has recently joined the Sinso’s project team as Chief Financial & Risk Officer (CFO & CRO). He will look after our Capital Management, Fund-raising Corporate Finance & Risk Management functions. Najeeb is also a board director at select international Fintech projects in the Gulf and APAC regions.
+
+He has an MBA, FRM and MS in Data Science & Machine Learning. He is currently a candidate for Ph.D. in AI & Information Technology Management. His professional affiliations include being a fellow member of Global Association of Risk Professionals (GARP, USA), Association for the Advancement of Artificial Intelligence (AAAI), and a regular member of the CFA Institute.

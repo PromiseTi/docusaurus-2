@@ -1,6 +1,6 @@
 ---
 id: sin7
-title: 7 投资机构及伙伴
+title: 7 Investment institutions and partners
 sidebar_position: 7
 ---
 

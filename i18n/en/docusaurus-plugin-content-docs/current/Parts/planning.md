@@ -1,6 +1,6 @@
 ---
 id: planning
-title: 项目规划
+title: Roadmap
 ---
 
 ![项目规划 ](./img/planImg.jpg)

@@ -1,29 +1,34 @@
 ---
 id: economic
-title: 经济模型
+title: Token Economics Model
 ---
 
-## Sinso 发行细则
+## Issuance Rules
 
-TOKEN 名称：Sinso
+Token name: SINSO
 
-总量：1 个亿 永不增发
+Total Amount: one hundred million
 
-TOKEN 类型：基于 Polkadot 的平行链 Plasm 发行
+Token types: Parachain Plasm based on Polkadot
 
-![Sinso发行细则 ](./img/fen1.jpg)
+![Sinso发行细则 ](./img/fen3.jpg)
 
-## Sinso 通缩机制
+## Sinso Deflation Mechanism
 
-![Sinso发行细则 ](./img/fen2.jpg)
+![Sinso发行细则 ](./img/fen4.jpg)
 
-- 数据生产者 通过数据上传、分享、加工等可以进行挖矿获得 Sinso；
-- 数据审核方 通过在交易所购买 Sinso 后质押足够量的 Sinso TOKEN ，即可获得审
-  核节点的资格，进而通过数据有效性审核来进行挖矿获得 Sinso；
-- 数据采购方 健康数据需求方需支付 Sinso TOKEN 在数据交易市场和数据生产者或
-  数据共享池购买数据，凡交易过程需要燃烧 10%的交易手续费，10%给存储空间
-  提供者进行加权分红；
-- 数据存储空间提供方，购买存储空间需要燃烧指定数量的 Sinso，数据将会不断消
-  耗储存空间，存储空间提供者可通过数据存储和交易分红进行挖矿，从而获得丰厚
-  的 Sinso 奖励。
-- 除此之外，在开放式的智能合约框架中，结合智能合约部署还有奖励机制。
+- Data producer--obtains SINSO through date upload, sharing, processing
+  etc
+- Data reviewer--purchasing SINSO on exchange and pledge a certain
+  amount of them to get qualification for node reviewing, and get SINSO
+  from valid data review.
+- Data purchaser-- Data demander needs to pay SINSO TOKEN in trading
+  market, to data producers ,or in data sharing pools. 10% of transaction
+  fees will be burned in this process and given to the storage space
+  providers as dividends.
+- Data storage space providers need to burn a specified amount of SINSO
+  to purchase storage space, the space will be smaller while more data are
+  coming in .Space provider can get generous SINSO rewards through data
+  storage and transactions. In addition, in the open smart contract
+  framework, there will be a reward mechanism combined with smart
+  contract deployment.

@@ -1,12 +1,12 @@
 ---
 id: sin6
-title: 6 目前所获荣誉
+title: 6 Current honors
 sidebar_position: 6
 ---
 
-协议实验室全球 filcoin 第一届加速营总决赛全球 TOP11,Grant 奖金获得者；
+Protocol Lab Global Filcoin's First Acceleration Camp Finals Global TOP11, Grant prize winner;
 
-CRUST 加速营 grant 获得者；
+CRUST acceleration camp, Grant prize winner;
 
-filecoin 官方 twitter 报道：
+Filecoin official twitter report:
 https://twitter.com/filecoin/status/1349151708274974723?lang=en

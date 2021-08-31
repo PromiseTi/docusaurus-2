@@ -1,6 +1,6 @@
 ---
 id: investment
-title: 投资机构及合作伙伴
+title: Partnership
 ---
 
 ![Longhash ](./img/name1.jpg)
